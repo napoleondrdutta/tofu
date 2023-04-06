@@ -19,7 +19,8 @@ header {
 }
 
 header h1 {
-    font-size: 24px;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 nav ul {
@@ -41,8 +42,9 @@ main {
 }
 
 section h2 {
-    font-size: 20px;
+    font-size: 28px;
     margin-bottom: 20px;
+    font-family: cursive;
 }
 
 section ul {
@@ -61,6 +63,7 @@ form {
     display: flex;
     flex-direction: column;
     max-width: 500px;
+    background-color: #efe7e7;
 }
 
 form label {
